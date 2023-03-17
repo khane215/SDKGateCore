@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4wCxYtvxPH2U0t5vqyjT7g6O35D/1qiivavV+UgWbVV70ckG572rd/rwQyAcgX+w86KAElJ4pmZ2Oco/zb0KYQ==",
+  "dgSpecHash": "7z4ttv0kpJHXzZ/TZvYdPy+kscj956wximbWex3IrQ0fYSd06jHqqQmYsbdyXNP10oTARCzSuOVbRoRC2ramug==",
   "success": true,
-  "projectFilePath": "D:\\GateSDK_Core\\GateSDKs\\GateSDKs\\GateSDKs.csproj",
+  "projectFilePath": "D:\\GOSU\\Sol.Service\\GateSDK_Core\\GateSDKs\\GateSDKs\\GateSDKs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

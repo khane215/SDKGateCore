@@ -36,7 +36,7 @@ namespace SampleforConsole
                 data.Add(ScratchCardFields.REQUEST_ID, request_id);
                 data.Add(ScratchCardFields.SERIAL, "TD00000000");
                 data.Add(ScratchCardFields.PIN, "1234567890");
-                data.Add(ScratchCardFields.TELCO_SERVICE_CODE, "10010080001");
+                data.Add(ScratchCardFields.TELCO_SERVICE_CODE, "10010080001"); 
 
                 IResponseInterface response = pay.claimScratchCard(data);
                 Dictionary<String, Object> content = response.getContent();

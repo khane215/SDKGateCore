@@ -39,3 +39,8 @@ D:\GateSDK_Core\GateSDKs\GateSDKs\obj\Debug\net6.0\GateSDKs.genruntimeconfig.cac
 D:\GateSDK_Core\GateSDKs\GateSDKs\obj\Debug\net6.0\ref\GateSDKs.dll
 D:\GateSDK_Core\GateSDKs\GateSDKs\bin\Debug\net6.0\RestWrapper.dll
 D:\GateSDK_Core\GateSDKs\GateSDKs\bin\Debug\net6.0\System.Text.Json.dll
+D:\GOSU\Sol.Service\GateSDK_Core\GateSDKs\GateSDKs\obj\Debug\net6.0\GateSDKs.csproj.AssemblyReference.cache
+D:\GOSU\Sol.Service\GateSDK_Core\GateSDKs\GateSDKs\obj\Debug\net6.0\GateSDKs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GOSU\Sol.Service\GateSDK_Core\GateSDKs\GateSDKs\obj\Debug\net6.0\GateSDKs.AssemblyInfoInputs.cache
+D:\GOSU\Sol.Service\GateSDK_Core\GateSDKs\GateSDKs\obj\Debug\net6.0\GateSDKs.AssemblyInfo.cs
+D:\GOSU\Sol.Service\GateSDK_Core\GateSDKs\GateSDKs\obj\Debug\net6.0\GateSDKs.csproj.CoreCompileInputs.cache
